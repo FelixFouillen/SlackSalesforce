@@ -70,3 +70,5 @@ If you haven't already done so, follow the steps below to create a Salesforce co
 1. Repeat these steps to create another Slash command called **/case**, calling ```https://your-heroku-app.herokuapp.com/case```. In the Heroku dashboard, set the **SLACK_CASE_TOKEN** config var to the value of the token that was generated in Slack.    
 
 1. Repeat these steps to create another Slash command called **/whoami**, calling ```https://your-heroku-app.herokuapp.com/whoami```. In the Heroku dashboard, set the **SLACK_WHOAMI_TOKEN** config var to the value of the token that was generated in Slack.    
+
+Ajout d'une feature
